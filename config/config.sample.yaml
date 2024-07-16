@@ -1,0 +1,9 @@
+resources: "./resources"
+sounds_dir: "sounds"
+images_dir: "images"
+videos_dir: "videos"
+uploaded_dir: "uploaded"
+
+genre:
+  - jazz
+  - house

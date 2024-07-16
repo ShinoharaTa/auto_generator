@@ -1,0 +1,39 @@
+movie:
+  title: "movie title"
+  sub_title:
+    - 'sub-title 1'
+    - 'sub-title 2'
+    - 'sub-title 3'
+  tags:
+    - 'tags'
+    - 'tags'
+    - 'tags'
+
+twitter:
+  consumer_key: YOUR_TWITTER_CONSUMER_KEY
+  consumer_secret: YOUR_TWITTER_CONSUMER_SECRET
+  access_token: YOUR_TWITTER_ACCESS_TOKEN
+  access_token_secret: YOUR_TWITTER_ACCESS_TOKEN_SECRET
+
+instagram:
+  username: YOUR_INSTAGRAM_USERNAME
+  password: YOUR_INSTAGRAM_PASSWORD
+
+tiktok:
+  access_token: YOUR_TIKTOK_ACCESS_TOKEN
+
+youtube:
+  api_key: YOUR_YOUTUBE_API_KEY
+  client_secrets_file: path/to/client_secrets.json
+
+sounds:
+  - "1.mp3"
+  - "2.mp3"
+
+images:
+  - "1.png"
+  - "2.png"
+
+thumbnails:
+  - "1.png"
+  - "2.png"
